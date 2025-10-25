@@ -1,0 +1,11 @@
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\bin\Debug\net8.0\Lab8_Bai2_Code.deps.json
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\bin\Debug\net8.0\Lab8_Bai2_Code.dll
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\bin\Debug\net8.0\Lab8_Bai2_Code.pdb
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.AssemblyInfoInputs.cache
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.AssemblyInfo.cs
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.csproj.CoreCompileInputs.cache
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.dll
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\refint\Lab8_Bai2_Code.dll
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\Lab8_Bai2_Code.pdb
+D:\Bài của bố\Kiểm thử nâng cao (C#)\Lab 8\Bài 2\Lab8_Bai2_Code\obj\Debug\net8.0\ref\Lab8_Bai2_Code.dll

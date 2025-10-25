@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00E0i c\u1EE7a b\u1ED1\\Ki\u1EC3m th\u1EED n\u00E2ng cao (C#)\\Lab 8\\B\u00E0i 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B746B0-FB68-430E-809C-79DD94EE311D}|Bai2_Test\\Bai2_Test.csproj|d:\\b\u00E0i c\u1EE7a b\u1ED1\\ki\u1EC3m th\u1EED n\u00E2ng cao (c#)\\lab 8\\b\u00E0i 2\\bai2_test\\arrayhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B746B0-FB68-430E-809C-79DD94EE311D}|Bai2_Test\\Bai2_Test.csproj|solutionrelative:bai2_test\\arrayhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE237D5A-5E29-4265-A848-49C582B4839A}|Lab8_Bai2_Code\\Lab8_Bai2_Code.csproj|d:\\b\u00E0i c\u1EE7a b\u1ED1\\ki\u1EC3m th\u1EED n\u00E2ng cao (c#)\\lab 8\\b\u00E0i 2\\lab8_bai2_code\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE237D5A-5E29-4265-A848-49C582B4839A}|Lab8_Bai2_Code\\Lab8_Bai2_Code.csproj|solutionrelative:lab8_bai2_code\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayHelperTests.cs",
+              "DocumentMoniker": "D:\\B\u00E0i c\u1EE7a b\u1ED1\\Ki\u1EC3m th\u1EED n\u00E2ng cao (C#)\\Lab 8\\B\u00E0i 2\\Bai2_Test\\ArrayHelperTests.cs",
+              "RelativeDocumentMoniker": "Bai2_Test\\ArrayHelperTests.cs",
+              "ToolTip": "D:\\B\u00E0i c\u1EE7a b\u1ED1\\Ki\u1EC3m th\u1EED n\u00E2ng cao (C#)\\Lab 8\\B\u00E0i 2\\Bai2_Test\\ArrayHelperTests.cs",
+              "RelativeToolTip": "Bai2_Test\\ArrayHelperTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:01:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "D:\\B\u00E0i c\u1EE7a b\u1ED1\\Ki\u1EC3m th\u1EED n\u00E2ng cao (C#)\\Lab 8\\B\u00E0i 2\\Lab8_Bai2_Code\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "Lab8_Bai2_Code\\ArrayHelper.cs",
+              "ToolTip": "D:\\B\u00E0i c\u1EE7a b\u1ED1\\Ki\u1EC3m th\u1EED n\u00E2ng cao (C#)\\Lab 8\\B\u00E0i 2\\Lab8_Bai2_Code\\ArrayHelper.cs",
+              "RelativeToolTip": "Lab8_Bai2_Code\\ArrayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBkwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:00:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
